@@ -1,3 +1,5 @@
+import requests
+
 proxy = ['proxy', 'vmess', 'ss', 'trojan', 'clash']
 for i in proxy:
     if i != 'clash':
